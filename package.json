@@ -1,0 +1,26 @@
+{
+  "name": "node_testing_strategies",
+  "version": "1.0.0",
+  "description": "Node.js Testing Strategies",
+  "main": "index.js",
+  "scripts": {
+    "mocha": "node_modules/mocha/bin/mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vitorsei/NodeTestingStrategies.git"
+  },
+  "author": "Vitor Seiji Iwamura",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vitorsei/NodeTestingStrategies/issues"
+  },
+  "homepage": "https://github.com/vitorsei/NodeTestingStrategies#readme",
+  "devDependencies": {
+    "mocha": "^3.1.2",
+    "sinon": "^1.17.6"
+  },
+  "dependencies": {
+    "moment": "^2.15.2"
+  }
+}
