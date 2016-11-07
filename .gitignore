@@ -1,4 +1,6 @@
-.idea/
+
+#Webstorm metadata
+.idea
 
 # Logs
 logs
