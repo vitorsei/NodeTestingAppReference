@@ -4,7 +4,7 @@
   "description": "Node.js Testing Strategies",
   "main": "index.js",
   "scripts": {
-    "mocha": "node_modules/mocha/bin/mocha"
+    "test": "echo"
   },
   "repository": {
     "type": "git",
